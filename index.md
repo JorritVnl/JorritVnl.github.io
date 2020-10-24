@@ -1,5 +1,1 @@
-### Info-19 | Privacy Policy
-
-## Info-19 | Privacy Policy
-
-# Info-19 | Privacy Policy
+## How we use your data
