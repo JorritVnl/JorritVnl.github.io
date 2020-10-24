@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Info-19 | Privacy Policy
 ---
 
 ## Does Info-19 collect or store any data and if so how?
