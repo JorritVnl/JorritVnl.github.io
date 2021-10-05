@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Info-19 | Privacy Policy
+title: Operation ZAR | Privacy Policy
 ---
 
-## Does Info-19 collect or store any data and if so how?
+## Does Operation ZAR collect or store any data and if so how?
 
-Info-19 does not collect or store any data from their users. All settings or preferences that can be made in the app are saved locally on only the user his/her device.
+Operation ZAR does not collect or store any data from their users.
 
 ## Are there any third-parties that we share data with?
 
